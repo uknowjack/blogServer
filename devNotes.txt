@@ -1,0 +1,13 @@
+aug 31 created index.js in server. need to install required files.
+get more comfortable using git.
+call greg about sharing files so i can send him what I've done.
+need to get help from him understanding how to check if a server is connected properly
+find something else to bother greg with
+
+sep 2 i now know i need to use git init and npm init. I dont know when i need to manually install things and when i need to install them through the terminal. i need to figure out how to initialize mongo db
+
+sept 4 first i need to create react app, then do npm init and git init
+
+sept 5 started over to assure I know what I'm doing. npm init. express. created index.js. what is the difference between making an express object and importing an express document. for the serrver side i need to create dependency objects (const express = require('express');).
+
+sept 6 I am learning i am having the most difficult learning how to get the information from sources like udemy, class, or youtube to build the bigger pieces. look for the route handler in index.js. and the listener.
